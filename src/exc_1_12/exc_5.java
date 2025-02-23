@@ -1,4 +1,4 @@
-//Write a Java program that takes two numbers as input and displays the product of two numbers.
+package exc_1_12;//Write a Java program that takes two numbers as input and displays the product of two numbers.
 //Test Data:
 //Input first number: 25
 //Input second number: 5

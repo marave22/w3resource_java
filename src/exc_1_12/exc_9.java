@@ -1,3 +1,5 @@
+package exc_1_12;
+
 import java.util.Scanner;
 //Write a Java program to compute the specified expressions and print the output.
 //Test Data:

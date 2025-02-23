@@ -1,4 +1,4 @@
-//1. Write a Java program to print 'Hello' on screen and your name on a separate line.
+package exc_1_12;//1. Write a Java program to print 'Hello' on screen and your name on a separate line.
 
 public class exc_1 {
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package exc_1_12;
 
 //Write a Java program to display the following pattern.
 public class exc_8 {

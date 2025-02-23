@@ -1,3 +1,5 @@
+package exc_1_12;
+
 import java.util.Scanner;
 
 //Write a Java program to divide two numbers and print them on the screen.
